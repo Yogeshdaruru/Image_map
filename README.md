@@ -1,4 +1,4 @@
-![maps](https://github.com/user-attachments/assets/b7836c4f-3c73-442d-a749-92f763e796f7)# Ex04 Places Around Me
+Places Around Me
 # Date:
 # AIM
 To develop a website to display details about the places around my house.
@@ -165,6 +165,7 @@ tempel.html:
 ```
 
 # OUTPUT
+![maps](https://github.com/user-attachments/assets/b7836c4f-3c73-442d-a749-92f763e796f7)# Ex04 
  ![image](https://github.com/user-attachments/assets/776c5f46-61da-4bb2-9418-c70f8d6eb3a5)
  ![image](https://github.com/user-attachments/assets/d038913f-53bb-4806-98f7-f2a5376ca653)
 ![image](https://github.com/user-attachments/assets/f82ea1b0-c004-4d69-9dc9-51dacdc715ed)
